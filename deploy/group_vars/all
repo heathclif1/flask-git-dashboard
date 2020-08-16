@@ -1,6 +1,6 @@
 deploy_user: deployer
 deploy_group: deployers
-ssh_dir: "/home/matt/serverconfig/"
+ssh_dir: "/home/synaps/serverconfig/"
 ssh_key_name: "serverconfig"
 
 db_name: "chapter6"
